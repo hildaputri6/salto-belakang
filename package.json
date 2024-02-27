@@ -1,0 +1,27 @@
+{
+  "name": "salto-belakang",
+  "version": "1.0.0",
+  "description": "Mengsalto Belakang",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hildaputri6/salto-belakang.git"
+  },
+  "keywords": [
+    "salto",
+    "npm"
+  ],
+  "author": "hilda",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "kontol-lodon": "1.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/hildaputri6/salto-belakang/issues"
+  },
+  "homepage": "https://github.com/hildaputri6/salto-belakang#readme"
+}
